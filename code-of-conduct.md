@@ -16,10 +16,9 @@ If you have questions or feedback about this Code of Conduct please contact the 
 
 Covid Restrictions Commitment: All ELE members are expected to comply with venues' Covid safety policies, including and not limited to requirements for wearing face coverings, and any entrance checks that might be required by a venue (temperature check, vaccination status, etc). If you have an exemption, please make it known to an organiser or member of staff as soon as possible. If you cannot comply, or do not wish to do so, you are invited to wait to attend events when restrictions have been lifted.
 
-This Code of Conduct, like its inspiration from the [Portland Python User Group][ppug] and [Geek Feminism Anti-Harassment][gfam] page, is licensed under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license.
+This Code of Conduct, like its inspiration from the Portland Python User Group and [Geek Feminism Anti-Harassment][gfam] page, is licensed under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 Should a need arise to enforce this CoC, a reference approach can be found on the [PyLadies website][pyladies].
 
-[ppug]: https://www.meetup.com/pdxpython/pages/12061872/Code_of_Conduct/
 [gfam]: https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy
 [pyladies]: https://reshamas.github.io/managing-our-code-of-conduct/#addressing-violations
